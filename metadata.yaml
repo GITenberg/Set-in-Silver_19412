@@ -1,0 +1,40 @@
+_repo: Set-in-Silver_19412
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Williamson, C. N. (Charles Norris)
+    alias: Williamson, Charles Norris
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '3522'
+    url: http://www.gutenberg.org/2009/agents/3522
+  - agent_name: Williamson, A. M. (Alice Muriel)
+    aliases:
+    - Williamson, Mrs. C. N.
+    - Williamson, Alice Muriel
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '3796'
+    url: http://www.gutenberg.org/2009/agents/3796
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
+description: ''
+gutenberg_issued: '2006-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19412'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Automobiles -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcc 'PR'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: Set in Silver
+url: http://www.gutenberg.org/ebooks/19412
